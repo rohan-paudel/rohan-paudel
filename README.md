@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Student Learning Portal**
 
-- 👨‍💻 Visit my Portfolio [https://rohanpaudel.com](https://rohanpaudel.com)
+- 👨‍💻 Visit my Portfolio [https://rohanpaudel.com.np](https://rohanpaudel.com.np)
 
 - 💬 Ask me about **Android, Clean Architecture, MVVM Pattern, Kotlin**
 
